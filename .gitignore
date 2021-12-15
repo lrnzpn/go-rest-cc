@@ -1,3 +1,4 @@
 // ignore build file
 *.exe
 *.app
+main
